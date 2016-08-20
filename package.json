@@ -1,0 +1,22 @@
+{
+  "name": "promise-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niugeshenhua/promise-polyfill.git"
+  },
+  "author": "mrcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niugeshenhua/promise-polyfill/issues"
+  },
+  "homepage": "https://github.com/niugeshenhua/promise-polyfill#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2"
+  }
+}
